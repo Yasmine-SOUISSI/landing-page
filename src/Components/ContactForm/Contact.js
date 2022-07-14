@@ -37,10 +37,6 @@ function Contact() {
         <section className="contact-section">
             <div className="contact-heading">
                 <h2 className="contact-title">Contact Us</h2>
-                <p className="contact-description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore.
-                </p>
             </div>
             <form>
                 <div className="form-group1">

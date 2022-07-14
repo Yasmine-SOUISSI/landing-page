@@ -14,7 +14,6 @@ const AddProduct = () => {
     const [fileInputState, setFileInputState] = useState("");
     const [previewSource, setPreviewSource] = useState("");
     const [selectedFile, setSelectedFile] = useState();
-
     const [image, setImage] = useState("");
     const dispatch = useDispatch();
     const handleFileInputChange = (e) => {

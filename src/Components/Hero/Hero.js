@@ -4,10 +4,12 @@ const Hero = () => {
     return (
         <div className="HeroContainer">
             <div className="HeroContainerLeft">
-                <h1 className="HeroTitle">CodeUnite : to belong and become </h1>
+                <h1 className="HeroTitle">CodeUnite to belong and become </h1>
+
                 <p className="HeroText">
-                    We adopt you melt and model your skills with the best tools
-                    and techniques.
+                    We adopt you , melt & model your skills & finally deliver
+                    you to the market place as valid IT expert unleash the
+                    talent within you
                 </p>
                 <button className="HeroButton">Contact us</button>
             </div>

@@ -27,7 +27,7 @@
     /* Royal Blue */
 }
 .work-icons {
-    padding-top: 5px;
+    margin-top: 20px;
 }
 .icons {
     font-family: Poppins;
@@ -43,6 +43,7 @@
     text-align: center;
     padding: 15px;
     color: #fff;
+    margin-top: 20px;
 }
 .work-title {
     /* Heading 1 */

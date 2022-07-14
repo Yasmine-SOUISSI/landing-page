@@ -6,18 +6,14 @@ function Footer() {
             <footer class="footer">
                 <div class="footer-container">
                     <div class="footer-container-left">
-                        <h2 class="logo">Bwdigital</h2>
-                        <p class="footer-description">
-                            We are always open to discuss your project and
-                            improve your online presence.
-                        </p>
+                        <h2 class="logo">CodeUnite</h2>
+                        <p class="footer-description">To belong & Become </p>
                     </div>
                     <div class="footer-container-right">
                         <h2 class="footer-title">Let's talk</h2>
                         <p class="footer-description2">
-                            We are always open to discuss your project, improve
-                            your online presence and help with your UX/UI design
-                            challenges.
+                            We are always open to discuss your project and
+                            improve your skills with our team.
                         </p>
                     </div>
                 </div>

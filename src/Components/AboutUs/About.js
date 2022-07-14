@@ -7,12 +7,12 @@ const About = () => {
         {
             title: "Goal Focused",
             description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Our start up union , aims to build , melt and shape our students from different backgrounds to turn out confirmed talents, who are able to master their implementation skills being autonomous while performing .",
         },
         {
-            title: "Continous improvement",
+            title: "Core Values",
             description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Make our students be part of a large and solid Union of experts & to belong to an engaged Comunity that is eager to collaborate and fortify  itself through our different programs and implications.",
         },
     ];
     return (
@@ -29,8 +29,7 @@ const About = () => {
                 </div>
                 <img class="about-img" src={amy} alt="" />
             </div>
-            <div class="about-bottom">
-                <h2 class="about-heading-2">Who we are</h2>
+            <div class="about-top">
                 <div class="about-container-2">
                     <div style={{ display: "flex", marginBottom: 20 }}>
                         {data.map((item) => (
