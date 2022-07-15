@@ -23,7 +23,7 @@ const Signin = () => {
     return (
         <div className="signin">
             <div className="img-left">
-                <img className="img" src={img} />
+                <img className="img" src={img} alt="" />
             </div>
             <div className="card-signin">
                 <h2 className="card-title">Sign In</h2>

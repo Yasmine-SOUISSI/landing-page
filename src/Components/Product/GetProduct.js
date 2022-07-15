@@ -7,7 +7,7 @@ export default function GetProduct({ product }) {
                 <div class="card card-1">
                     <p class="card__text">{product.title}</p>
 
-                    <img src={product.imageURL} />
+                    <img src={product.imageURL} alt="" />
                     <h3 class="card__title">{product.description}</h3>
                 </div>
             </div>

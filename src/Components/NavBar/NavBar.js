@@ -41,15 +41,9 @@ function NavBar() {
                     <ul className="menu">
                         <li>Home</li>
 
-                        <li>
-                            <a href="#">Services</a>
-                        </li>
-                        <li>
-                            <a href="#">Gallery</a>
-                        </li>
-                        <li>
-                            <a href="#">Contact</a>
-                        </li>
+                        <li>Services</li>
+                        <li>Gallery</li>
+                        <li>Contact</li>
                     </ul>
                 </div>
             )}

@@ -104,6 +104,8 @@ const AddProduct = () => {
                             value={image}
                             onChange={handleFileInputChange}
                             className="form-control"
+                            fileInputState={fileInputState}
+                            previewSource={previewSource}
                         />
                     </div>
                     <br />

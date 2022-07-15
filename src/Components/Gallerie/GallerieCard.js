@@ -5,7 +5,7 @@ function Gallerie({ product }) {
         <div className="portfolio-wrapper ">
             <div className="content ">
                 <div className="content-overlay"></div>
-                <img className="content-image" src={product.imageURL} />
+                <img className="content-image" src={product.imageURL} alt="" />
                 <div className="content-details fadeIn-bottom">
                     <h5 className="p-title">{product.title}</h5>
                     <p className="p-desc">{product.description}</p>
